@@ -1,0 +1,141 @@
+# Copyright (C) 2024 learnhowwp.com
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Menu Cart Module Divi 1.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/menu-cart-divi\n"
+"POT-Creation-Date: 2024-08-18 15:46:28+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n1.0.2\n"
+
+#: includes/class-lwp-menu-rating.php:79
+msgid ""
+"<div class=\"wrap notice notice-info\">\n"
+"                        <div style=\"margin:10px 0px;\">\n"
+"                            <p>Hello! Seems like you are using <strong> %s "
+"</strong> plugin to build your Divi website. &#127775; If you've found it "
+"helpful, could you take a moment to rate us 5 stars &#127775; on WordPress? "
+"It would mean the world to us and help others choose the right plugin. "
+"Thank you!</p>\n"
+"                        </div>\n"
+"                        <div class=\"button-group\" style=\"margin:10px "
+"0px;\">\n"
+"                            <a href=\"%2$s\" class=\"button "
+"button-primary\" target=\"_blank\" style=\"margin-right:10px;\">Ok,you "
+"deserve it</a>\n"
+"                            <span class=\"dashicons "
+"dashicons-smiley\"></span><a href=\"%3$s\" class=\"button button-link\" "
+"style=\"margin-right:10px; margin-left:3px;\">I already did</a>\n"
+"                            <a href=\"%4$s\" class=\"button button-link\"> "
+"Don't show this again.</a>\n"
+"                        </div>\n"
+"                    </div>"
+msgstr ""
+
+#: includes/modules/MenuCart/MenuCart.php:15
+msgid "Menu Cart"
+msgstr ""
+
+#: includes/modules/MenuCart/MenuCart.php:22
+msgid "Icon Font Size"
+msgstr ""
+
+#: includes/modules/MenuCart/MenuCart.php:23
+msgid "Control the size of the icon by increasing or decreasing the font size."
+msgstr ""
+
+#: includes/modules/MenuCart/MenuCart.php:40
+msgid "Icon Color"
+msgstr ""
+
+#: includes/modules/MenuCart/MenuCart.php:42
+msgid "Here you can define a custom color for your icon."
+msgstr ""
+
+#: includes/modules/MenuCart/MenuCart.php:54
+msgid "Icon"
+msgstr ""
+
+#: includes/modules/MenuCart/MenuCart.php:67
+msgid "Cart Menu"
+msgstr ""
+
+#: includes/modules/MenuCart/MenuCart.php:73
+msgid "Count"
+msgstr ""
+
+#: includes/modules/MenuCart/MenuCart.php:79
+msgid "Price"
+msgstr ""
+
+#: includes/modules/MenuCart/MenuCart.php:88
+msgid "Inner Module"
+msgstr ""
+
+#: includes/modules/MenuCart/MenuCart.php:92
+msgid "Cart Link"
+msgstr ""
+
+#: includes/modules/MenuCart/MenuCart.php:96
+msgid "Cart Icon"
+msgstr ""
+
+#: includes/modules/MenuCart/MenuCart.php:100
+msgid "Cart Count"
+msgstr ""
+
+#: includes/modules/MenuCart/MenuCart.php:104
+msgid "Cart Separator"
+msgstr ""
+
+#: includes/modules/MenuCart/MenuCart.php:108
+msgid "Cart Price"
+msgstr ""
+
+#: includes/modules/MenuCart/MenuCart.php:195 menu-cart-module-divi.php:116
+msgid "%d Item"
+msgid_plural "%d Items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: menu-cart-module-divi.php:199
+msgid "Save Changes"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Menu Cart Module Divi"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.learnhowwp.com/divi-menu-cart/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugins adds a new module in the Divi Builder. The module allows you "
+"add cart icon with item count and price."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "learnhowwp.com"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://learnhowwp.com/"
+msgstr ""
